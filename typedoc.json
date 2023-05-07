@@ -1,5 +1,10 @@
 {
     // This will find the entry point correctly for express, angular, and react.
-    "entryPoints": ["src/main.ts", "src/main.tsx"],
+    "entryPoints": [
+        "src/index.ts",
+        "src/index.txs",
+        "src/main.ts", 
+        "src/main.tsx"
+    ],
     "out": "docs"
 }
