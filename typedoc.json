@@ -1,7 +1,7 @@
 {
     "entryPoints": [
         "src/index.ts",
-        "src/index.txs",
+        "src/index.tsx",
         "src/main.ts", 
         "src/main.tsx"
     ],
